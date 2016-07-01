@@ -26,6 +26,7 @@ public class AlgoGenScript : MonoBehaviour {
         preparetest();
         //roots[0].RandomTreeGeneration();
         roots[0].InstanciateMonster();
+        
         /*
         for (int i = 0; i < joints.Count; i++)
         {
